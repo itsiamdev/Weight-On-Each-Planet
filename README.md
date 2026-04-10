@@ -20,4 +20,4 @@ An interactive web application that calculates your weight on different planets 
 - JavaScript for interactive calculations
 - Google Fonts for typography
 
-🔗 [Live Demo](https://iam269.github.io/Weight-On-Each-Planet/)
+🔗 [Live Demo](https://itsiamdev.github.io/Weight-On-Each-Planet/)
